@@ -13,7 +13,8 @@
 
 ## Screenshots Reference
 task1.js
-[alt text](image.png)
+<img width="318" height="69" alt="image" src="https://github.com/user-attachments/assets/03f95682-4b65-4b28-8da0-7a02f1f66e09" />
+
 PS C:\Users\ADMIN\.vscode\JS_Assignment> node task1.js
 Anu - Pass
 Rahul - Fail
