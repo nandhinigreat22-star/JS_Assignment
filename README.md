@@ -42,7 +42,8 @@ Students who scored 80 or above:
 
 task3.js
 
-![alt text](image-2.png)
+<img width="329" height="32" alt="image" src="https://github.com/user-attachments/assets/c8e00b12-30c9-463b-ae4b-144fe07a95ff" />
+
 
 PS C:\Users\ADMIN\.vscode\JS_Assignment> node task3.js
 Task completed
