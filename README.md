@@ -12,6 +12,7 @@
 4. Run Task 2 using: `node task2.js`
 
 ## Screenshots Reference
+task1.js
 [alt text](image.png)
 PS C:\Users\ADMIN\.vscode\JS_Assignment> node task1.js
 Anu - Pass
@@ -37,6 +38,12 @@ Students who scored 80 or above:
   { name: 'John', marks: 85, grade: 'A' },
   { name: 'Peter', marks: 90, grade: 'A+' }
 ]
-PS C:\Users\ADMIN\.vscode\JS_Assignment> 
 
+task3.js
+
+![alt text](image-2.png)
+
+PS C:\Users\ADMIN\.vscode\JS_Assignment> node task3.js
+Task completed
+PS C:\Users\ADMIN\.vscode\JS_Assignment> 
 
